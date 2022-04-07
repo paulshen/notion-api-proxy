@@ -1,0 +1,8 @@
+name = "notion-api-proxy"
+type = "javascript"
+
+account_id = "66424aababe53d0e7526168451b8b87d"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-04-07"
